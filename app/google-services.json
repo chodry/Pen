@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "133410740531",
+    "firebase_url": "https://penny-47f55.firebaseio.com",
+    "project_id": "penny-47f55",
+    "storage_bucket": "penny-47f55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133410740531:android:db4eb05ef4305724",
+        "android_client_info": {
+          "package_name": "com.example.chodry.pen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "133410740531-3juk1lba024ggdsd56oqfu95n9r500m2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chodry.pen",
+            "certificate_hash": "c3713579110ce518ae85b6036365bf44b96b55ad"
+          }
+        },
+        {
+          "client_id": "133410740531-tem0gv982i0147uvahrmfkukum3fi4qm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW74zbN0sXBx-Zr5w-ks-WusmUuLohpPQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "133410740531-tem0gv982i0147uvahrmfkukum3fi4qm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
